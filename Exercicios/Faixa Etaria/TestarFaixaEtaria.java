@@ -6,7 +6,7 @@ package com.mycompany.provads_03_04;
 
 /**
  *
- * @author dti
+ * @author Karinne Angelo dos Santos Ventura
  */
 public class TestarFaixaEtaria {
      public static void main(String[] args) {
