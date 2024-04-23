@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author dti
+ * @author Karinne Angelo dos Santos Ventura
  */
 public class Conta {
    
