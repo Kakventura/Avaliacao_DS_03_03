@@ -6,7 +6,7 @@ package com.mycompany.provads_03_04;
 import javax.swing.JOptionPane;
 /**
  *
- * @author dti
+ * @author Karinne Angelo dos Santos Ventura
  */
 public class AumentoSalario {
     //CLASSE PRINCIPAL
